@@ -19,7 +19,7 @@
                 "./scripts/openssh.ps1",
                 "./scripts/oracle-cert.cer",
                 "./scripts/chef.bat",
-                "./chocolatey.bat"
+                "./scripts/chocolatey.bat"
             ],
             "vboxmanage": [
                 ["modifyvm", "{{.Name}}", "--memory", "2048"],
